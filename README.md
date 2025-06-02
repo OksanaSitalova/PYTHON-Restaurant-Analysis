@@ -1,4 +1,5 @@
 # Restaurant Data Analysis (SQLite, Pandas, Visualization)
+![Dashboard](restaurant.jpg)
 
 ## Overview
 This project covers the full cycle of exploratory data analysis (EDA) on a restaurant order database using SQLite.  
