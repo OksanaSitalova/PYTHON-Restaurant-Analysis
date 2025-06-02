@@ -54,8 +54,11 @@ The `db_new.sqlite3` database contains three main tables:
 
 ## Project Structure
 ├── db_new.sqlite3 # Original database
+
 ├── restaurant.csv # Merged dataset
+
 ├── restaurant_analysis.ipynb # Jupyter notebook with analysis
+
 ├── README.md # Documentation
 
 
