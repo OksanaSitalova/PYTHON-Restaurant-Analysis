@@ -63,7 +63,7 @@ The `db_new.sqlite3` database contains three main tables:
 
 
 ## Project Status
-✅ Completed
+Completed
 
 ### Potential Extensions
 - Sales forecasting  
